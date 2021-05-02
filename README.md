@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning how to make computers do things. 
+
 <!--
 **orrymr/orrymr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
